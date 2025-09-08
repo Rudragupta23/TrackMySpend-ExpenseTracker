@@ -62,7 +62,7 @@ Follow setup instructions 1 or 2
 ### Home Page
 ![alt img](assets/3.png)
 ### Profile Page
-![alt img](assets/4.png)
+![alt img](assets/9.1.png)
 ### Data Page
 ![alt img](assets/5.png)
 ### Analysis
