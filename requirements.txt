@@ -1,0 +1,12 @@
+﻿future~=1.0.0
+numpy~=1.26.4
+twilio~=9.3.2
+Pillow~=10.1.0
+PyMySQL~=1.1.1
+matplotlib~=3.8.2
+python-dotenv~=1.0.1
+cryptography~=43.0.1
+seaborn~=0.13.2
+pandas~=2.2.2
+mysql-connector-python~=9.1.0
+tkcalendar~=1.6.1
