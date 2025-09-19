@@ -16,7 +16,7 @@ Any student using this application can tell how much they have
 spent in 4 years of their college journey.
 
 ### Before downloading keep this thing in mind that you will be needing a .env file in 'app' folder which you can get from:
-[Download.env](https://drive.google.com/drive/folders/18nAlaC-MjI7LVTJ2bTpH14qzXZ9NkrDb)
+For env file: Email to 23rudragupta@gmail.com
 
 ## Download latest release:- 
 Follow setup instructions 1 or 2
