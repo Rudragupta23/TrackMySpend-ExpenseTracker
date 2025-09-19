@@ -36,7 +36,7 @@ Follow setup instructions 1 or 2
 ## Setup Instructions(2):-
 1. Clone the repository:
    ```sh 
-   git clone git@github.com:Akshatchourey/Project-Exhibition-1-VITB.git
+   git clone (https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker.git)
    cd Project-Exhibition-1-VITB
    
 2. Install the dependencies:
