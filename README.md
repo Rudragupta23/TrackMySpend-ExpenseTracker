@@ -36,8 +36,8 @@ Follow setup instructions 1 or 2
 ## Setup Instructions(2):-
 1. Clone the repository:
    ```sh 
-   git clone (https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker.git)
-   cd Project-Exhibition-1-VITB
+   git clone https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker.git
+   cd TrackMySpend-ExpenseTracker
    
 2. Install the dependencies:
    ```sh
@@ -45,7 +45,7 @@ Follow setup instructions 1 or 2
    
 3. cd to desired folder:
     ```sh
-   cd project Exhibition 1 VITB
+   cd TrackMySpend-ExpenseTracker.
    cd app
    
 4. Run the application:
