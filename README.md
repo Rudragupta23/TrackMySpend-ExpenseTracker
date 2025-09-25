@@ -59,13 +59,12 @@ Follow setup instructions 1 or 2
 | Authorization Pages | Authorization Pages |
 | :---: |:---:|
 | ![Authorization Pages](assets/1.png) | ![Authorization Pages ](assets/1-1.png) |
-| **Profile Page** | **Personalize Page** |
-| ![Profile Page](assets/9.1.png) | ![Personalize Page](assets/2.jpg) |
-| **Analysis** | **Data Page** |
-| ![Analysis](assets/8.png) | ![Data Page](assets/5.png) |
-| **Home Page** | **Feedback Page** |
-| ![Home Page](assets/3.png) |  ![Feedback Page](assets/9.png) |
-
+| **Home Page** | **Personalize Page** |
+| ![Home Page](assets/3.png)) | ![Personalize Page](assets/2.jpg) |
+| **Profile Page** | **Data Page** |
+| ![Profile Page](assets/9.1.png) | ![Data Page](assets/5.png) |
+| **Analysis** | **Feedback Page** |
+| ![Analysis](assets/8.png) |  ![Feedback Page](assets/9.png) |
 
 
 
