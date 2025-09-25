@@ -63,8 +63,8 @@ Follow setup instructions 1 or 2
 | ![Profile Page](assets/9.1.png) | ![Personalize Page](assets/2.jpg) |
 | **Analysis** | **Data Page** |
 | ![Analysis](assets/8.png) | ![Data Page](assets/5.png) |
-| **Home Page** | 
-| ![Home Page](assets/3.png) | 
+| **Home Page** | **Feedback Page** |
+| ![Home Page](assets/3.png) |  ![Feedback Page](assets/9.png) |
 
 
 
