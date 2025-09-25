@@ -15,13 +15,11 @@ class FBPage(ttk.Frame):
         f1.pack(side='right', fill='y', expand=True, padx=10, pady=10)
 
         ttk.Label(f1, text="Developer", font=('Times', '20', 'bold')).pack(padx=4, pady=5)
-        developers = ["--Akshat Chourey--", "--Shorya Pathak--", "--Rudra Gupta--",
-                      "--Tanushri Rajesh--", "--Vanshika Dhaka--"]
+       developers = ["--Rudra Gupta--"]
         for dev in developers:
             ttk.Label(f1, text=dev, font=('Helvetica', 12)).pack(padx=1, pady=3)
         ttk.Label(f1, text="Contact Info", font=('Times', '20', 'bold')).pack(pady=5)
-        ttk.Label(f1, text="achourey09@..").pack(pady=3)
-        ttk.Label(f1, text="shoryapathak07@..").pack(pady=3)
+        ttk.Label(f1, text="23rudragupta@gmail.com").pack(pady=3)
 
         # values
         self.name = tk.StringVar()
