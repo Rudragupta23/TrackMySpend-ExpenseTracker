@@ -54,16 +54,13 @@ Follow setup instructions 1 or 2
 
 ## Thank you.
 
-## Few Screenshots:
-### Authorization Pages
-![alt img](assets/1.png) ![alt img](assets/1-1.png)
-### Personalize Page
-![alt img](assets/2.jpg)
-### Home Page
-![alt img](assets/3.png)
-### Profile Page
-![alt img](assets/9.1.png)
-### Data Page
-![alt img](assets/5.png)
-### Analysis
-![alt img](assets/8.png)
+## 🖼️ Screenshots
+
+| Authorization Pages | Home Page|
+| :---: |:---:|
+| ![Authorization Pages](assets/1.png) | ![Home Page](assets/3.png) |
+| **Profile Page** | **Personalize Page** |
+| ![Profile Page](assets/9.1.png) | ![Personalize Page](assets/1-1.png) |
+| **Analysis** | **Data Page** |
+| ![Analysis](assets/8.png) | ![Data Page](assets/5.png) |
+
