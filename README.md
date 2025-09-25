@@ -56,11 +56,17 @@ Follow setup instructions 1 or 2
 
 ## 🖼️ Screenshots
 
-| Authorization Pages | Home Page|
+| Authorization Pages | Authorization Pages |
 | :---: |:---:|
-| ![Authorization Pages](assets/1.png) | ![Home Page](assets/3.png) |
+| ![Authorization Pages](assets/1.png) | ![Authorization Pages ](assets/1-1.png) |
 | **Profile Page** | **Personalize Page** |
-| ![Profile Page](assets/9.1.png) | ![Personalize Page](assets/1-1.png) |
+| ![Profile Page](assets/9.1.png) | ![Personalize Page](assets/2.jpg) |
 | **Analysis** | **Data Page** |
 | ![Analysis](assets/8.png) | ![Data Page](assets/5.png) |
+| **Home Page** | 
+| ![Home Page](assets/3.png) | 
+
+
+
+
 
