@@ -4,7 +4,7 @@
 The problem of overspending is generally faced by college students 
 resulting in their empty bank accounts and even finding it difficult to track 
 their spending(how much they have spent on what). This overspending problem 
-is further increased after the launch of digital payment systems like UPI.
+is further increased after the launch of digital payment systems like UPI & NFC.
 
 ### Overspending:
 Overspending is the act of spending more money than one can afford. 
